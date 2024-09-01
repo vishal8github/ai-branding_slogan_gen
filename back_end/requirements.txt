@@ -1,0 +1,11 @@
+mangum
+fastapi[all]
+typing
+regex
+re
+argparse
+python-dotenv
+openai
+awscli
+
+#https://7xv7tnekh7.execute-api.ap-south-1.amazonaws.com/prod/generate_snippet?prompt=momos
